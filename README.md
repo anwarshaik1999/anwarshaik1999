@@ -2,7 +2,7 @@
 
 - Actively looking for opportunities as a **software developer**.
 - Currently working on a project to showcase skills in **ReactJS, Java, TypeScript,** Testing Frameworks, and **AWS Cloud**.
-- Actively preparing for **AWS Certifications**, including **Certified Developer - Associate**.
+- Actively preparing for **AWS Certification** which is **Certified Developer - Associate**.
 - Additionally, Implementing and actively using various testing methodologies, including **unit testing, end-to-end testing, API testing**, and **performance testing** using tools like **Maven, Karate, Junit, Jenkins, JMeter, Hercules, Mockito**, and mocking techniques.
 
 ---
