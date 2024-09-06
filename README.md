@@ -10,7 +10,7 @@
 
 ## Summary
 
-An innovative and highly skilled **Full Stack Developer** with over **5+ years** of experience and a proven track record of delivering robust technical solutions to complex business problems. Currently working at **Nexillo**, I leverage expertise in modern technologies and frameworks to enhance system efficiency and user productivity. With extensive experience in **React, Redux, Spring Boot**, and **AWS**, I excel in designing and implementing scalable, cloud-native applications.
+An innovative and highly skilled **Full Stack Developer** with over **5+ years** of experience and a proven track record of delivering robust technical solutions to complex business problems. Currently working at **CloudPivit**, I leverage expertise in modern technologies and frameworks to enhance system efficiency and user productivity. With extensive experience in **React, Redux, Spring Boot**, and **AWS**, I excel in designing and implementing scalable, cloud-native applications.
 
 - **Proficient in Full Stack Development**: Expert in developing and optimizing applications using **React, Redux,** and **Bootstrap**. Demonstrated success in increasing user productivity by **40%** and reducing manual workload by **30%** by creating advanced workflow systems.
 - **Cloud Expertise**: Hands-on experience with **AWS services**, including **EC2, ECS, Fargate, S3, CloudWatch,** and **CloudFormation**. Adept at automating cloud infrastructure and managing scalable, secure deployments, leading to significant cost savings and performance improvements.
