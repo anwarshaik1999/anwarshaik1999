@@ -1,7 +1,7 @@
 ## What am I doing right now?
 
 - Actively looking for opportunities as a **software developer**.
-- Currently working on a project to showcase skills in **ReactJS, Java, TypeScript,** Testing Frameworks, and **AWS Cloud**.
+- Currently working on a project to showcase skills in **ReactJS, Angular, Java, TypeScript,** Testing Frameworks, and **AWS Cloud**.
 - Implementing and actively using various testing methodologies, including **unit testing, end-to-end testing, API testing**, and **performance testing** using tools like **Maven, Karate, Junit, Jenkins, JMeter, Mockito**, and mocking techniques.
 - Leveraging hands-on experience with **AWS services** like **EC2, ECS, Fargate, S3, CloudWatch, IAM**, and **CloudFormation**, applying this expertise to automate cloud infrastructure and manage secure, scalable deployments.
 - Additionally, preparing for **AWS Certification** as a **Certified Developer - Associate**.
