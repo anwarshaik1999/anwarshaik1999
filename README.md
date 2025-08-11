@@ -4,7 +4,7 @@
 **Software Engineer — AI · Cloud · DevOps**  
 _Austin, Texas · from India_
   
-[Portfolio](https://anwarshaik1999.github.io) · [GitHub](https://github.com/anwarshaik1999) · [LinkedIn](https://www.linkedin.com/in/anwar-shaik1/) · ✉️ **anwarshaik1999@gmail.com**
+[Portfolio](https://anwarshaik1999.github.io/anwar-portfolio/) · [GitHub](https://github.com/anwarshaik1999) · [LinkedIn](https://www.linkedin.com/in/anwar-shaik1/) · ✉️ **anwarshaik1999@gmail.com**
 
 </div>
 
@@ -56,7 +56,7 @@ Full‑stack engineer with **5+ years** experience designing, building, and oper
 - **Faster CI with xdist + coverage** — practical guide and configs to parallelize tests and keep coverage.  
 - **Observability Sidecar** — multi‑destination log shipper with sane formats and filters.
 
-> See details on my **[Portfolio](https://anwarshaik1999.github.io)** (type `help` in the terminal).
+> See details on my **[Portfolio](https://anwarshaik1999.github.io/anwar-portfolio/)** (type `help` in the terminal).
 
 ---
 
@@ -67,7 +67,7 @@ Short, copy‑paste friendly references I keep for myself and teammates:
 - **Log hygiene & correlation patterns**
 - **Route 53 resilience tips**
 
-👉 Browse them on the **[Cloud/DevOps Runbooks](https://anwarshaik1999.github.io#runbooks)** section.
+👉 Browse them on the **[Cloud/DevOps Runbooks](https://anwarshaik1999.github.io/anwar-portfolio/#runbooks)** section.
 
 ---
 
