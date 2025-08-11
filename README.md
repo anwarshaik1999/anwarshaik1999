@@ -1,23 +1,91 @@
-## What am I doing right now?
+<div align="center">
+  
+# 👋 Hi, I'm **Anwar Shaik**
+**Software Engineer — AI · Cloud · DevOps**  
+_Austin, Texas · from India_
+  
+[Portfolio](https://anwarshaik1999.github.io) · [GitHub](https://github.com/anwarshaik1999) · [LinkedIn](https://www.linkedin.com/in/anwar-shaik1/) · ✉️ **anwarshaik1999@gmail.com**
 
-- Actively looking for opportunities as a **software developer**.
-- Currently working on a project to showcase skills in **ReactJS, Angular, Java, TypeScript,** Testing Frameworks, and **AWS Cloud**.
-- Implementing and actively using various testing methodologies, including **unit testing, end-to-end testing, API testing**, and **performance testing** using tools like **Maven, Karate, Junit, Jenkins, JMeter, Mockito**, and mocking techniques.
-- Leveraging hands-on experience with **AWS services** like **EC2, ECS, Fargate, S3, CloudWatch, IAM**, and **CloudFormation**, applying this expertise to automate cloud infrastructure and manage secure, scalable deployments.
-- Additionally, preparing for **AWS Certification** as a **Certified Developer - Associate**.
+</div>
 
 ---
 
-## Summary
+## 🔭 What I'm doing right now
+- Actively looking for **Software Engineer** roles (backend, full‑stack, or Cloud/DevOps).  
+- Building a terminal‑style portfolio and shipping small demos in **AI/ML** and **DevOps**.  
+- Practicing **system design**, **testing discipline** (TDD/BDD), and cloud patterns.  
+- Prepping for **AWS Certified Developer – Associate**.
 
-An innovative and highly skilled **Full Stack Developer** with over **5+ years** of experience and a proven track record of delivering robust technical solutions to complex business problems. Currently working at **CloudPivit**, I leverage expertise in modern technologies and frameworks to enhance system efficiency and user productivity. With extensive experience in **React, Angular, Redux, Spring Boot**, and **AWS**, I excel in designing and implementing scalable, cloud-native applications.
+---
 
-- **Proficient in Full Stack Development**: Expert in developing and optimizing applications using **React, Redux,** and **Bootstrap**. Demonstrated success in increasing user productivity by **40%** and reducing manual workload by **30%** by creating advanced workflow systems.
-- **Cloud Expertise**: Hands-on experience with **AWS services**, including **EC2, ECS, Fargate, S3, CloudWatch,** and **CloudFormation**. Adept at automating cloud infrastructure and managing scalable, secure deployments, leading to significant cost savings and performance improvements.
-- **Java Version Management**: Expert in managing multiple **Java** versions, ensuring compatibility and smooth operation across various development and production environments.
-- **Backend Development and Optimization**: Skilled in backend logic development using **graph theory, PostgreSQL,** and **Spring Boot**. Proven ability to optimize data management and backend services for enhanced system efficiency and reduced processing time.
-- **Testing and Quality Assurance**: Experienced in **end-to-end** and **API testing** with **Karate** and **Cucumber**. Emphasizes **test-driven** and **behavior-driven development** practices to ensure high-quality code delivery and maintainability.
-- **Containerization and CI/CD**: Proficient in **Docker** for containerization, enhancing development consistency and deployment speed. Competent in setting up and managing **CI/CD pipelines** with **AWS CodeCommit, CodeBuild,** and **CodeDeploy**.
-- **Academic and Professional Training**: Experience as a **Teaching Assistant**, where I facilitated learning and designed engaging course materials, resulting in a high course satisfaction rate and increased student engagement with generative AI examples.
+## 🧠 Summary
+Full‑stack engineer with **5+ years** experience designing, building, and operating cloud‑native systems. I blend practical **DevOps** with solid **software engineering**: speed up feedback loops, keep infra simple, and ship reliable features. I enjoy computer vision side projects (CAPTCHA OCR, **license plate recognition/ANPR**), and I play competitive **badminton** when I’m not gaming.
 
-A **fast learner** with a proven track record of quickly adapting to new technologies and methodologies. Committed to leveraging extensive development and data management skills to contribute effectively to software development objectives.
+**I’m best at:**
+- **Cloud + Platform:** AWS (**ECS/Fargate, EC2, S3, CloudWatch, IAM, CloudFormation**), Docker, some Kubernetes.
+- **Backend:** **Java (Spring Boot)**, Python; clean APIs; tracing/logging baked in.
+- **Frontend:** **React/Next.js**, TypeScript; practical, fast UIs.
+- **Testing & Quality:** unit, API, E2E, and **performance** testing with **JUnit, Karate, Cucumber, Mockito, JMeter**; CI with Jenkins/GitLab.
+- **Data/ML (hands‑on):** OpenCV, Tesseract, scikit‑learn; tried‑and‑true OCR pipelines.
+
+> Motto: **Ship fast. Automate everything.**
+
+---
+
+## 🧩 Selected Highlights
+- **EC2 → Fargate migration:** improved reliability, enabled autoscaling, and reduced infra cost by ~**40%** with cleaner deploys (blue/green + rolling).  
+- **CI speed‑ups:** cut a monorepo test suite from **26 min → 3 min** using `pytest-xdist`, isolated temp dirs, and better caching.  
+- **Observability sidecar:** consistent JSON logs, better correlation, and saner queries across CloudWatch/Splunk/OTel.  
+- **ANPR:** detect → rectify → OCR plates and **infer Indian state**; robust across common angles/lighting.  
+- **CAPTCHA OCR (IIT workshop):** segmentation + EMNIST/MNIST CNN recognition; learned the limits of noisy captchas.
+
+---
+
+## 🧰 Toolbox
+**Languages:** `Java` · `Python` · `TypeScript` · `SQL`  
+**Frameworks:** `Spring Boot` · `React` · `Next.js`  
+**Cloud/DevOps:** `AWS (ECS/Fargate, EC2, S3, CloudWatch, IAM, CloudFormation)` · `Docker` · `GitHub Actions` · `Jenkins`  
+**Testing:** `JUnit` · `Mockito` · `Karate` · `Cucumber` · `JMeter` · `pytest`  
+**ML/CV:** `OpenCV` · `Tesseract` · `scikit-learn`
+
+---
+
+## 🚀 Featured Projects
+- **License Plate Recognition (ANPR)** — OpenCV + CNN + Tesseract pipeline to crop plate, OCR number, and map to Indian state.  
+- **CAPTCHA OCR (2019 @ IIT workshop)** — cleaned & segmented noisy captchas; EMNIST/MNIST CNN recognition.  
+- **Faster CI with xdist + coverage** — practical guide and configs to parallelize tests and keep coverage.  
+- **Observability Sidecar** — multi‑destination log shipper with sane formats and filters.
+
+> See details on my **[Portfolio](https://anwarshaik1999.github.io)** (type `help` in the terminal).
+
+---
+
+## ✍️ Notes & Runbooks
+Short, copy‑paste friendly references I keep for myself and teammates:
+- **ECS/Fargate migration checklist**
+- **pytest‑xdist quickstart + coverage**
+- **Log hygiene & correlation patterns**
+- **Route 53 resilience tips**
+
+👉 Browse them on the **[Cloud/DevOps Runbooks](https://anwarshaik1999.github.io#runbooks)** section.
+
+---
+
+## 🎯 What I’m open to
+- Backend / Full‑stack roles (Java, Python, TypeScript)  
+- Cloud/Platform/DevOps roles (AWS, CI/CD, Observability)  
+- Startup builder roles (0→1 systems)
+
+---
+
+## 🏸 Fun
+Badminton nerd (ladder on weekends), gamer at heart, tech blogger in progress.
+
+---
+
+<div align="center">
+
+**Let’s build something useful.**  
+📧 **anwarshaik1999@gmail.com** · 🔗 **[LinkedIn](https://www.linkedin.com/in/anwar-shaik1/)**
+
+</div>
